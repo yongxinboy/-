@@ -1,0 +1,12 @@
+#mobile {
+    display: none;
+}
+@media (max-width: 991px) {
+    #mobile{
+        display: block;
+    }
+    #pc{
+        display: none;
+    }
+
+}
